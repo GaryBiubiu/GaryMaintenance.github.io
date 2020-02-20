@@ -1,0 +1,6 @@
+
+旧版维护
+<div style="border: 1px solid pink; background: pink;">网站正在更新，我们将很快恢复服务</div>
+<div style="border: 1px solid pink; background: pink;">请稍后再来</div>
+<div id="web_bg" style="position:absolute; width:100%; height:100%; z-index:-1">
+<img style="position:fixed;" src="imageres/background.jpg" height="100%" width="100%" /></div>
